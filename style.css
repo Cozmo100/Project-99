@@ -1,0 +1,30 @@
+
+button{
+    background-color: rgb(255, 197, 127);
+    border-radius: 40%;
+    border-width: 1px;
+    border-color: rgb(255, 178, 84);
+}
+
+body{
+    background-color: rgb(209, 220, 212);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    box-shadow: 0 6px 8px 0 rgb(0, 0, 0);
+    border-radius: 30%;
+}
+
+img:hover{
+    height: 200px;
+    width: 300px;
+}
